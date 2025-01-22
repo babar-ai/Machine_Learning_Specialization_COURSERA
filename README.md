@@ -62,7 +62,6 @@ I have completed all the weekly lab projects from each course in this specializa
 ## Certificate
 Successfully completing the specialization awards you a certificate, verifying your proficiency in machine learning concepts and techniques.
 
-![Certificate Preview](https://coursera.org/share/7db0a087a90e21c0c7de641684c18824)
 
 [View My Certificate](https://coursera.org/share/7db0a087a90e21c0c7de641684c18824)
 
